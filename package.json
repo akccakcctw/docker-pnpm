@@ -1,0 +1,18 @@
+{
+  "name": "docker-pnpm",
+  "version": "0.0.0",
+  "description": "A Node.js + PNPM docker image",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akccakcctw/docker-pnpm.git"
+  },
+  "author": "Rex Tsou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akccakcctw/docker-pnpm/issues"
+  },
+  "homepage": "https://github.com/akccakcctw/docker-pnpm#readme"
+}
