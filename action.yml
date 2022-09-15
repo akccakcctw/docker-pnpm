@@ -1,0 +1,9 @@
+name: 'docker-pnpm'
+description: 'A Node.js + PNPM docker image'
+author: 'Rex Tsou'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+branding:
+  color: orange
+  icon: download

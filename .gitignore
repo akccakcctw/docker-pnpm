@@ -1,0 +1,10 @@
+*.[Cc]ache
+*.bak
+*.DS_Store
+[Tt]humbs.db
+
+# Dependency directories
+node_modules
+
+# Others
+.idea
